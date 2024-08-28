@@ -1,0 +1,501 @@
+product_id,product_name,category,sub_category,price
+1,Bookcases Item 1,Furniture,Bookcases,307.84
+2,Chairs Item 2,Furniture,Chairs,313.26
+3,Paper Item 3,Office Supplies,Paper,460.37
+4,Chairs Item 4,Furniture,Chairs,857.95
+5,Art Item 5,Office Supplies,Art,851.28
+6,Phones Item 6,Technology,Phones,952.16
+7,Bookcases Item 7,Furniture,Bookcases,525.13
+8,Bookcases Item 8,Furniture,Bookcases,217.32
+9,Bookcases Item 9,Furniture,Bookcases,613.05
+10,Paper Item 10,Office Supplies,Paper,776.96
+11,Paper Item 11,Office Supplies,Paper,791.95
+12,Paper Item 12,Office Supplies,Paper,679.46
+13,Tables Item 13,Furniture,Tables,534.71
+14,Art Item 14,Office Supplies,Art,677.0
+15,Computers Item 15,Technology,Computers,325.82
+16,Art Item 16,Office Supplies,Art,66.63
+17,Computers Item 17,Technology,Computers,774.07
+18,Binders Item 18,Office Supplies,Binders,716.89
+19,Phones Item 19,Technology,Phones,999.35
+20,Accessories Item 20,Technology,Accessories,880.37
+21,Tables Item 21,Furniture,Tables,284.38
+22,Accessories Item 22,Technology,Accessories,121.91
+23,Bookcases Item 23,Furniture,Bookcases,781.15
+24,Phones Item 24,Technology,Phones,285.8
+25,Computers Item 25,Technology,Computers,59.87
+26,Computers Item 26,Technology,Computers,169.09
+27,Phones Item 27,Technology,Phones,779.93
+28,Phones Item 28,Technology,Phones,983.85
+29,Accessories Item 29,Technology,Accessories,802.15
+30,Computers Item 30,Technology,Computers,820.18
+31,Computers Item 31,Technology,Computers,494.49
+32,Phones Item 32,Technology,Phones,861.7
+33,Binders Item 33,Office Supplies,Binders,104.53
+34,Art Item 34,Office Supplies,Art,41.04
+35,Computers Item 35,Technology,Computers,429.59
+36,Chairs Item 36,Furniture,Chairs,994.97
+37,Computers Item 37,Technology,Computers,82.91
+38,Chairs Item 38,Furniture,Chairs,801.14
+39,Binders Item 39,Office Supplies,Binders,518.06
+40,Phones Item 40,Technology,Phones,743.1
+41,Bookcases Item 41,Furniture,Bookcases,239.96
+42,Binders Item 42,Office Supplies,Binders,427.08
+43,Binders Item 43,Office Supplies,Binders,375.03
+44,Computers Item 44,Technology,Computers,109.62
+45,Bookcases Item 45,Furniture,Bookcases,790.27
+46,Computers Item 46,Technology,Computers,475.46
+47,Accessories Item 47,Technology,Accessories,975.57
+48,Chairs Item 48,Furniture,Chairs,305.58
+49,Art Item 49,Office Supplies,Art,958.99
+50,Bookcases Item 50,Furniture,Bookcases,928.68
+51,Tables Item 51,Furniture,Tables,608.41
+52,Bookcases Item 52,Furniture,Bookcases,66.28
+53,Tables Item 53,Furniture,Tables,79.69
+54,Art Item 54,Office Supplies,Art,304.67
+55,Phones Item 55,Technology,Phones,390.4
+56,Computers Item 56,Technology,Computers,483.08
+57,Tables Item 57,Furniture,Tables,467.99
+58,Computers Item 58,Technology,Computers,502.64
+59,Tables Item 59,Furniture,Tables,285.08
+60,Phones Item 60,Technology,Phones,941.7
+61,Chairs Item 61,Furniture,Chairs,695.98
+62,Paper Item 62,Office Supplies,Paper,745.28
+63,Bookcases Item 63,Furniture,Bookcases,956.26
+64,Tables Item 64,Furniture,Tables,648.27
+65,Computers Item 65,Technology,Computers,110.8
+66,Chairs Item 66,Furniture,Chairs,557.06
+67,Tables Item 67,Furniture,Tables,893.4
+68,Accessories Item 68,Technology,Accessories,120.41
+69,Binders Item 69,Office Supplies,Binders,758.0
+70,Binders Item 70,Office Supplies,Binders,870.63
+71,Bookcases Item 71,Furniture,Bookcases,895.23
+72,Tables Item 72,Furniture,Tables,713.69
+73,Bookcases Item 73,Furniture,Bookcases,329.46
+74,Paper Item 74,Office Supplies,Paper,229.41
+75,Accessories Item 75,Technology,Accessories,162.57
+76,Accessories Item 76,Technology,Accessories,668.47
+77,Chairs Item 77,Furniture,Chairs,838.58
+78,Bookcases Item 78,Furniture,Bookcases,629.55
+79,Bookcases Item 79,Furniture,Bookcases,418.31
+80,Binders Item 80,Office Supplies,Binders,804.01
+81,Binders Item 81,Office Supplies,Binders,726.14
+82,Phones Item 82,Technology,Phones,988.91
+83,Tables Item 83,Furniture,Tables,795.28
+84,Computers Item 84,Technology,Computers,283.07
+85,Chairs Item 85,Furniture,Chairs,843.6
+86,Paper Item 86,Office Supplies,Paper,920.7
+87,Art Item 87,Office Supplies,Art,918.81
+88,Bookcases Item 88,Furniture,Bookcases,547.2
+89,Binders Item 89,Office Supplies,Binders,971.88
+90,Art Item 90,Office Supplies,Art,859.33
+91,Chairs Item 91,Furniture,Chairs,241.7
+92,Tables Item 92,Furniture,Tables,418.41
+93,Phones Item 93,Technology,Phones,94.07
+94,Tables Item 94,Furniture,Tables,941.99
+95,Computers Item 95,Technology,Computers,184.55
+96,Tables Item 96,Furniture,Tables,653.89
+97,Paper Item 97,Office Supplies,Paper,774.38
+98,Tables Item 98,Furniture,Tables,191.57
+99,Paper Item 99,Office Supplies,Paper,286.16
+100,Bookcases Item 100,Furniture,Bookcases,784.1
+101,Binders Item 101,Office Supplies,Binders,488.62
+102,Bookcases Item 102,Furniture,Bookcases,214.27
+103,Bookcases Item 103,Furniture,Bookcases,966.62
+104,Chairs Item 104,Furniture,Chairs,193.23
+105,Art Item 105,Office Supplies,Art,410.78
+106,Chairs Item 106,Furniture,Chairs,356.26
+107,Paper Item 107,Office Supplies,Paper,545.17
+108,Phones Item 108,Technology,Phones,845.06
+109,Art Item 109,Office Supplies,Art,362.53
+110,Phones Item 110,Technology,Phones,826.96
+111,Binders Item 111,Office Supplies,Binders,342.0
+112,Paper Item 112,Office Supplies,Paper,524.82
+113,Computers Item 113,Technology,Computers,672.34
+114,Bookcases Item 114,Furniture,Bookcases,836.58
+115,Bookcases Item 115,Furniture,Bookcases,384.4
+116,Chairs Item 116,Furniture,Chairs,669.96
+117,Chairs Item 117,Furniture,Chairs,903.01
+118,Phones Item 118,Technology,Phones,503.58
+119,Tables Item 119,Furniture,Tables,597.18
+120,Tables Item 120,Furniture,Tables,327.59
+121,Chairs Item 121,Furniture,Chairs,664.24
+122,Bookcases Item 122,Furniture,Bookcases,501.06
+123,Phones Item 123,Technology,Phones,505.22
+124,Tables Item 124,Furniture,Tables,584.27
+125,Chairs Item 125,Furniture,Chairs,645.87
+126,Paper Item 126,Office Supplies,Paper,699.87
+127,Phones Item 127,Technology,Phones,269.29
+128,Paper Item 128,Office Supplies,Paper,637.28
+129,Paper Item 129,Office Supplies,Paper,848.43
+130,Art Item 130,Office Supplies,Art,157.78
+131,Bookcases Item 131,Furniture,Bookcases,161.4
+132,Computers Item 132,Technology,Computers,245.86
+133,Binders Item 133,Office Supplies,Binders,35.68
+134,Phones Item 134,Technology,Phones,953.24
+135,Binders Item 135,Office Supplies,Binders,623.79
+136,Chairs Item 136,Furniture,Chairs,232.47
+137,Binders Item 137,Office Supplies,Binders,110.6
+138,Tables Item 138,Furniture,Tables,95.85
+139,Phones Item 139,Technology,Phones,502.77
+140,Paper Item 140,Office Supplies,Paper,465.42
+141,Accessories Item 141,Technology,Accessories,231.43
+142,Computers Item 142,Technology,Computers,308.48
+143,Computers Item 143,Technology,Computers,238.64
+144,Paper Item 144,Office Supplies,Paper,41.39
+145,Bookcases Item 145,Furniture,Bookcases,689.62
+146,Binders Item 146,Office Supplies,Binders,57.7
+147,Art Item 147,Office Supplies,Art,509.77
+148,Chairs Item 148,Furniture,Chairs,779.47
+149,Accessories Item 149,Technology,Accessories,372.02
+150,Computers Item 150,Technology,Computers,70.72
+151,Art Item 151,Office Supplies,Art,826.8
+152,Computers Item 152,Technology,Computers,724.18
+153,Binders Item 153,Office Supplies,Binders,941.5
+154,Computers Item 154,Technology,Computers,462.76
+155,Accessories Item 155,Technology,Accessories,218.66
+156,Chairs Item 156,Furniture,Chairs,963.1
+157,Accessories Item 157,Technology,Accessories,803.23
+158,Binders Item 158,Office Supplies,Binders,975.68
+159,Chairs Item 159,Furniture,Chairs,560.38
+160,Chairs Item 160,Furniture,Chairs,334.22
+161,Accessories Item 161,Technology,Accessories,343.68
+162,Paper Item 162,Office Supplies,Paper,399.16
+163,Binders Item 163,Office Supplies,Binders,758.82
+164,Accessories Item 164,Technology,Accessories,731.63
+165,Bookcases Item 165,Furniture,Bookcases,411.2
+166,Art Item 166,Office Supplies,Art,533.81
+167,Computers Item 167,Technology,Computers,490.82
+168,Art Item 168,Office Supplies,Art,977.05
+169,Paper Item 169,Office Supplies,Paper,628.43
+170,Paper Item 170,Office Supplies,Paper,275.73
+171,Binders Item 171,Office Supplies,Binders,10.63
+172,Art Item 172,Office Supplies,Art,342.28
+173,Tables Item 173,Furniture,Tables,272.1
+174,Phones Item 174,Technology,Phones,989.35
+175,Accessories Item 175,Technology,Accessories,321.62
+176,Phones Item 176,Technology,Phones,750.79
+177,Paper Item 177,Office Supplies,Paper,833.01
+178,Binders Item 178,Office Supplies,Binders,592.64
+179,Binders Item 179,Office Supplies,Binders,687.21
+180,Bookcases Item 180,Furniture,Bookcases,111.02
+181,Phones Item 181,Technology,Phones,387.65
+182,Paper Item 182,Office Supplies,Paper,739.93
+183,Accessories Item 183,Technology,Accessories,263.81
+184,Binders Item 184,Office Supplies,Binders,598.71
+185,Art Item 185,Office Supplies,Art,739.52
+186,Accessories Item 186,Technology,Accessories,90.09
+187,Paper Item 187,Office Supplies,Paper,109.29
+188,Computers Item 188,Technology,Computers,99.93
+189,Binders Item 189,Office Supplies,Binders,324.35
+190,Bookcases Item 190,Furniture,Bookcases,399.05
+191,Binders Item 191,Office Supplies,Binders,252.02
+192,Bookcases Item 192,Furniture,Bookcases,380.82
+193,Bookcases Item 193,Furniture,Bookcases,840.28
+194,Binders Item 194,Office Supplies,Binders,533.92
+195,Chairs Item 195,Furniture,Chairs,308.37
+196,Computers Item 196,Technology,Computers,38.65
+197,Bookcases Item 197,Furniture,Bookcases,767.97
+198,Binders Item 198,Office Supplies,Binders,905.13
+199,Computers Item 199,Technology,Computers,634.87
+200,Computers Item 200,Technology,Computers,366.4
+201,Binders Item 201,Office Supplies,Binders,618.3
+202,Phones Item 202,Technology,Phones,882.68
+203,Phones Item 203,Technology,Phones,306.31
+204,Computers Item 204,Technology,Computers,452.82
+205,Phones Item 205,Technology,Phones,268.35
+206,Paper Item 206,Office Supplies,Paper,745.44
+207,Accessories Item 207,Technology,Accessories,970.85
+208,Accessories Item 208,Technology,Accessories,569.9
+209,Accessories Item 209,Technology,Accessories,147.62
+210,Art Item 210,Office Supplies,Art,429.48
+211,Paper Item 211,Office Supplies,Paper,353.1
+212,Art Item 212,Office Supplies,Art,679.04
+213,Binders Item 213,Office Supplies,Binders,207.67
+214,Chairs Item 214,Furniture,Chairs,478.94
+215,Binders Item 215,Office Supplies,Binders,738.58
+216,Computers Item 216,Technology,Computers,893.04
+217,Paper Item 217,Office Supplies,Paper,135.91
+218,Phones Item 218,Technology,Phones,956.53
+219,Phones Item 219,Technology,Phones,344.79
+220,Paper Item 220,Office Supplies,Paper,234.46
+221,Binders Item 221,Office Supplies,Binders,701.11
+222,Chairs Item 222,Furniture,Chairs,35.87
+223,Tables Item 223,Furniture,Tables,168.39
+224,Computers Item 224,Technology,Computers,355.81
+225,Bookcases Item 225,Furniture,Bookcases,904.67
+226,Accessories Item 226,Technology,Accessories,815.99
+227,Tables Item 227,Furniture,Tables,338.07
+228,Paper Item 228,Office Supplies,Paper,237.82
+229,Art Item 229,Office Supplies,Art,104.54
+230,Computers Item 230,Technology,Computers,232.01
+231,Art Item 231,Office Supplies,Art,559.75
+232,Tables Item 232,Furniture,Tables,209.7
+233,Binders Item 233,Office Supplies,Binders,260.43
+234,Tables Item 234,Furniture,Tables,989.56
+235,Tables Item 235,Furniture,Tables,250.03
+236,Phones Item 236,Technology,Phones,670.61
+237,Chairs Item 237,Furniture,Chairs,765.75
+238,Accessories Item 238,Technology,Accessories,587.1
+239,Bookcases Item 239,Furniture,Bookcases,806.7
+240,Chairs Item 240,Furniture,Chairs,239.97
+241,Accessories Item 241,Technology,Accessories,76.97
+242,Tables Item 242,Furniture,Tables,515.61
+243,Art Item 243,Office Supplies,Art,856.98
+244,Accessories Item 244,Technology,Accessories,922.09
+245,Computers Item 245,Technology,Computers,255.9
+246,Art Item 246,Office Supplies,Art,581.94
+247,Chairs Item 247,Furniture,Chairs,184.29
+248,Paper Item 248,Office Supplies,Paper,795.56
+249,Tables Item 249,Furniture,Tables,370.92
+250,Phones Item 250,Technology,Phones,115.76
+251,Art Item 251,Office Supplies,Art,186.03
+252,Chairs Item 252,Furniture,Chairs,860.09
+253,Accessories Item 253,Technology,Accessories,870.18
+254,Accessories Item 254,Technology,Accessories,949.5
+255,Chairs Item 255,Furniture,Chairs,873.56
+256,Accessories Item 256,Technology,Accessories,120.32
+257,Computers Item 257,Technology,Computers,277.8
+258,Binders Item 258,Office Supplies,Binders,510.52
+259,Chairs Item 259,Furniture,Chairs,243.26
+260,Phones Item 260,Technology,Phones,206.81
+261,Bookcases Item 261,Furniture,Bookcases,736.0
+262,Bookcases Item 262,Furniture,Bookcases,777.02
+263,Paper Item 263,Office Supplies,Paper,708.18
+264,Paper Item 264,Office Supplies,Paper,847.51
+265,Tables Item 265,Furniture,Tables,437.16
+266,Phones Item 266,Technology,Phones,813.93
+267,Tables Item 267,Furniture,Tables,33.65
+268,Art Item 268,Office Supplies,Art,99.75
+269,Accessories Item 269,Technology,Accessories,381.13
+270,Paper Item 270,Office Supplies,Paper,153.5
+271,Computers Item 271,Technology,Computers,280.78
+272,Phones Item 272,Technology,Phones,955.03
+273,Phones Item 273,Technology,Phones,596.38
+274,Bookcases Item 274,Furniture,Bookcases,396.85
+275,Paper Item 275,Office Supplies,Paper,486.36
+276,Paper Item 276,Office Supplies,Paper,568.83
+277,Binders Item 277,Office Supplies,Binders,564.2
+278,Accessories Item 278,Technology,Accessories,676.41
+279,Phones Item 279,Technology,Phones,144.35
+280,Binders Item 280,Office Supplies,Binders,245.26
+281,Phones Item 281,Technology,Phones,858.49
+282,Tables Item 282,Furniture,Tables,333.83
+283,Accessories Item 283,Technology,Accessories,273.75
+284,Phones Item 284,Technology,Phones,383.57
+285,Accessories Item 285,Technology,Accessories,206.99
+286,Chairs Item 286,Furniture,Chairs,606.72
+287,Chairs Item 287,Furniture,Chairs,829.04
+288,Binders Item 288,Office Supplies,Binders,624.87
+289,Bookcases Item 289,Furniture,Bookcases,133.42
+290,Bookcases Item 290,Furniture,Bookcases,936.42
+291,Art Item 291,Office Supplies,Art,602.35
+292,Phones Item 292,Technology,Phones,996.21
+293,Paper Item 293,Office Supplies,Paper,318.94
+294,Tables Item 294,Furniture,Tables,369.29
+295,Binders Item 295,Office Supplies,Binders,307.95
+296,Tables Item 296,Furniture,Tables,189.0
+297,Tables Item 297,Furniture,Tables,102.36
+298,Paper Item 298,Office Supplies,Paper,902.95
+299,Binders Item 299,Office Supplies,Binders,18.6
+300,Phones Item 300,Technology,Phones,460.68
+301,Chairs Item 301,Furniture,Chairs,640.07
+302,Computers Item 302,Technology,Computers,835.3
+303,Bookcases Item 303,Furniture,Bookcases,354.59
+304,Accessories Item 304,Technology,Accessories,122.36
+305,Phones Item 305,Technology,Phones,544.14
+306,Chairs Item 306,Furniture,Chairs,204.51
+307,Accessories Item 307,Technology,Accessories,398.12
+308,Computers Item 308,Technology,Computers,439.18
+309,Tables Item 309,Furniture,Tables,543.33
+310,Bookcases Item 310,Furniture,Bookcases,803.34
+311,Computers Item 311,Technology,Computers,27.78
+312,Paper Item 312,Office Supplies,Paper,40.08
+313,Phones Item 313,Technology,Phones,858.01
+314,Bookcases Item 314,Furniture,Bookcases,43.9
+315,Binders Item 315,Office Supplies,Binders,791.95
+316,Paper Item 316,Office Supplies,Paper,393.95
+317,Chairs Item 317,Furniture,Chairs,652.88
+318,Binders Item 318,Office Supplies,Binders,374.89
+319,Computers Item 319,Technology,Computers,978.2
+320,Paper Item 320,Office Supplies,Paper,642.85
+321,Paper Item 321,Office Supplies,Paper,126.87
+322,Tables Item 322,Furniture,Tables,25.91
+323,Binders Item 323,Office Supplies,Binders,841.71
+324,Accessories Item 324,Technology,Accessories,265.53
+325,Art Item 325,Office Supplies,Art,739.98
+326,Binders Item 326,Office Supplies,Binders,881.79
+327,Paper Item 327,Office Supplies,Paper,311.79
+328,Phones Item 328,Technology,Phones,981.88
+329,Binders Item 329,Office Supplies,Binders,665.01
+330,Tables Item 330,Furniture,Tables,43.61
+331,Paper Item 331,Office Supplies,Paper,766.49
+332,Bookcases Item 332,Furniture,Bookcases,951.93
+333,Bookcases Item 333,Furniture,Bookcases,979.61
+334,Binders Item 334,Office Supplies,Binders,910.85
+335,Tables Item 335,Furniture,Tables,303.16
+336,Bookcases Item 336,Furniture,Bookcases,94.3
+337,Bookcases Item 337,Furniture,Bookcases,629.71
+338,Tables Item 338,Furniture,Tables,826.36
+339,Computers Item 339,Technology,Computers,262.78
+340,Tables Item 340,Furniture,Tables,84.61
+341,Bookcases Item 341,Furniture,Bookcases,960.3
+342,Phones Item 342,Technology,Phones,206.71
+343,Accessories Item 343,Technology,Accessories,560.16
+344,Paper Item 344,Office Supplies,Paper,980.76
+345,Paper Item 345,Office Supplies,Paper,977.26
+346,Accessories Item 346,Technology,Accessories,689.46
+347,Phones Item 347,Technology,Phones,653.25
+348,Computers Item 348,Technology,Computers,330.77
+349,Accessories Item 349,Technology,Accessories,130.69
+350,Phones Item 350,Technology,Phones,225.2
+351,Phones Item 351,Technology,Phones,911.04
+352,Computers Item 352,Technology,Computers,870.23
+353,Art Item 353,Office Supplies,Art,922.86
+354,Chairs Item 354,Furniture,Chairs,932.32
+355,Art Item 355,Office Supplies,Art,643.41
+356,Accessories Item 356,Technology,Accessories,560.33
+357,Binders Item 357,Office Supplies,Binders,96.34
+358,Accessories Item 358,Technology,Accessories,704.71
+359,Binders Item 359,Office Supplies,Binders,577.29
+360,Bookcases Item 360,Furniture,Bookcases,634.38
+361,Paper Item 361,Office Supplies,Paper,699.31
+362,Paper Item 362,Office Supplies,Paper,39.39
+363,Computers Item 363,Technology,Computers,241.73
+364,Binders Item 364,Office Supplies,Binders,644.56
+365,Tables Item 365,Furniture,Tables,821.27
+366,Computers Item 366,Technology,Computers,484.43
+367,Computers Item 367,Technology,Computers,655.98
+368,Tables Item 368,Furniture,Tables,612.62
+369,Binders Item 369,Office Supplies,Binders,842.19
+370,Paper Item 370,Office Supplies,Paper,39.75
+371,Binders Item 371,Office Supplies,Binders,501.91
+372,Binders Item 372,Office Supplies,Binders,911.07
+373,Art Item 373,Office Supplies,Art,649.86
+374,Phones Item 374,Technology,Phones,884.96
+375,Binders Item 375,Office Supplies,Binders,644.45
+376,Art Item 376,Office Supplies,Art,468.86
+377,Phones Item 377,Technology,Phones,544.0
+378,Paper Item 378,Office Supplies,Paper,47.23
+379,Computers Item 379,Technology,Computers,757.55
+380,Binders Item 380,Office Supplies,Binders,884.58
+381,Paper Item 381,Office Supplies,Paper,915.61
+382,Bookcases Item 382,Furniture,Bookcases,473.39
+383,Binders Item 383,Office Supplies,Binders,846.38
+384,Tables Item 384,Furniture,Tables,767.98
+385,Phones Item 385,Technology,Phones,670.6
+386,Computers Item 386,Technology,Computers,745.77
+387,Binders Item 387,Office Supplies,Binders,352.32
+388,Paper Item 388,Office Supplies,Paper,341.95
+389,Tables Item 389,Furniture,Tables,275.13
+390,Art Item 390,Office Supplies,Art,461.23
+391,Phones Item 391,Technology,Phones,689.78
+392,Binders Item 392,Office Supplies,Binders,776.22
+393,Computers Item 393,Technology,Computers,559.83
+394,Paper Item 394,Office Supplies,Paper,14.48
+395,Bookcases Item 395,Furniture,Bookcases,605.48
+396,Computers Item 396,Technology,Computers,571.93
+397,Tables Item 397,Furniture,Tables,399.09
+398,Tables Item 398,Furniture,Tables,856.05
+399,Paper Item 399,Office Supplies,Paper,116.35
+400,Paper Item 400,Office Supplies,Paper,275.57
+401,Binders Item 401,Office Supplies,Binders,270.03
+402,Tables Item 402,Furniture,Tables,592.33
+403,Art Item 403,Office Supplies,Art,487.0
+404,Accessories Item 404,Technology,Accessories,14.03
+405,Chairs Item 405,Furniture,Chairs,285.79
+406,Art Item 406,Office Supplies,Art,655.17
+407,Tables Item 407,Furniture,Tables,905.16
+408,Phones Item 408,Technology,Phones,544.66
+409,Paper Item 409,Office Supplies,Paper,202.57
+410,Bookcases Item 410,Furniture,Bookcases,439.02
+411,Computers Item 411,Technology,Computers,885.15
+412,Tables Item 412,Furniture,Tables,166.66
+413,Paper Item 413,Office Supplies,Paper,438.31
+414,Chairs Item 414,Furniture,Chairs,318.76
+415,Bookcases Item 415,Furniture,Bookcases,397.28
+416,Chairs Item 416,Furniture,Chairs,586.15
+417,Binders Item 417,Office Supplies,Binders,842.69
+418,Phones Item 418,Technology,Phones,534.28
+419,Binders Item 419,Office Supplies,Binders,748.62
+420,Chairs Item 420,Furniture,Chairs,837.76
+421,Binders Item 421,Office Supplies,Binders,807.22
+422,Bookcases Item 422,Furniture,Bookcases,934.19
+423,Bookcases Item 423,Furniture,Bookcases,61.41
+424,Chairs Item 424,Furniture,Chairs,448.43
+425,Chairs Item 425,Furniture,Chairs,512.56
+426,Art Item 426,Office Supplies,Art,377.54
+427,Computers Item 427,Technology,Computers,887.07
+428,Chairs Item 428,Furniture,Chairs,511.18
+429,Art Item 429,Office Supplies,Art,777.19
+430,Bookcases Item 430,Furniture,Bookcases,609.97
+431,Binders Item 431,Office Supplies,Binders,998.15
+432,Computers Item 432,Technology,Computers,641.86
+433,Accessories Item 433,Technology,Accessories,630.35
+434,Phones Item 434,Technology,Phones,200.16
+435,Tables Item 435,Furniture,Tables,493.31
+436,Phones Item 436,Technology,Phones,453.17
+437,Paper Item 437,Office Supplies,Paper,809.45
+438,Art Item 438,Office Supplies,Art,313.22
+439,Art Item 439,Office Supplies,Art,959.35
+440,Paper Item 440,Office Supplies,Paper,647.77
+441,Art Item 441,Office Supplies,Art,699.89
+442,Computers Item 442,Technology,Computers,553.27
+443,Computers Item 443,Technology,Computers,289.66
+444,Paper Item 444,Office Supplies,Paper,733.47
+445,Chairs Item 445,Furniture,Chairs,671.47
+446,Bookcases Item 446,Furniture,Bookcases,754.37
+447,Art Item 447,Office Supplies,Art,846.02
+448,Art Item 448,Office Supplies,Art,776.91
+449,Phones Item 449,Technology,Phones,643.99
+450,Tables Item 450,Furniture,Tables,242.99
+451,Bookcases Item 451,Furniture,Bookcases,380.64
+452,Tables Item 452,Furniture,Tables,164.46
+453,Bookcases Item 453,Furniture,Bookcases,804.31
+454,Computers Item 454,Technology,Computers,419.66
+455,Tables Item 455,Furniture,Tables,134.17
+456,Tables Item 456,Furniture,Tables,502.56
+457,Accessories Item 457,Technology,Accessories,85.43
+458,Bookcases Item 458,Furniture,Bookcases,715.94
+459,Phones Item 459,Technology,Phones,449.96
+460,Paper Item 460,Office Supplies,Paper,833.79
+461,Bookcases Item 461,Furniture,Bookcases,614.19
+462,Bookcases Item 462,Furniture,Bookcases,350.8
+463,Paper Item 463,Office Supplies,Paper,18.44
+464,Chairs Item 464,Furniture,Chairs,630.83
+465,Accessories Item 465,Technology,Accessories,814.55
+466,Phones Item 466,Technology,Phones,28.16
+467,Chairs Item 467,Furniture,Chairs,777.04
+468,Bookcases Item 468,Furniture,Bookcases,136.68
+469,Bookcases Item 469,Furniture,Bookcases,643.15
+470,Chairs Item 470,Furniture,Chairs,141.02
+471,Accessories Item 471,Technology,Accessories,628.38
+472,Accessories Item 472,Technology,Accessories,375.62
+473,Paper Item 473,Office Supplies,Paper,571.44
+474,Chairs Item 474,Furniture,Chairs,404.32
+475,Accessories Item 475,Technology,Accessories,350.04
+476,Accessories Item 476,Technology,Accessories,503.51
+477,Art Item 477,Office Supplies,Art,530.53
+478,Art Item 478,Office Supplies,Art,122.39
+479,Binders Item 479,Office Supplies,Binders,534.88
+480,Binders Item 480,Office Supplies,Binders,883.34
+481,Accessories Item 481,Technology,Accessories,909.72
+482,Binders Item 482,Office Supplies,Binders,25.36
+483,Art Item 483,Office Supplies,Art,280.02
+484,Binders Item 484,Office Supplies,Binders,724.27
+485,Art Item 485,Office Supplies,Art,768.95
+486,Chairs Item 486,Furniture,Chairs,237.66
+487,Chairs Item 487,Furniture,Chairs,76.94
+488,Chairs Item 488,Furniture,Chairs,983.68
+489,Chairs Item 489,Furniture,Chairs,218.64
+490,Binders Item 490,Office Supplies,Binders,865.54
+491,Computers Item 491,Technology,Computers,958.03
+492,Tables Item 492,Furniture,Tables,638.42
+493,Phones Item 493,Technology,Phones,271.18
+494,Bookcases Item 494,Furniture,Bookcases,873.29
+495,Accessories Item 495,Technology,Accessories,852.55
+496,Binders Item 496,Office Supplies,Binders,449.1
+497,Chairs Item 497,Furniture,Chairs,190.43
+498,Paper Item 498,Office Supplies,Paper,898.27
+499,Accessories Item 499,Technology,Accessories,633.88
+500,Bookcases Item 500,Furniture,Bookcases,745.28
