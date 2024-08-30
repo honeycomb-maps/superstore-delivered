@@ -1,6 +1,6 @@
 # Superstore Delivered
 
-'Superstore Delivered' contains sample data and transformation logic for an online, delivery-first store.
+**Superstore Delivered** contains sample data and transformation logic for an online, delivery-first store.
 
 This repository is meant to be used as a starting point for those implementing data warehouses within logistics, last-mile delivery, and mobility companies. All the data and code is open-source under the MIT License. 
 
@@ -23,8 +23,8 @@ While the migration itself was carried out successfully during the pandemic, the
 ├── README.md ** this file **
 │
 ├── data
-│   ├── csv - ** files in csv format **
-│   └── parquet - ** files in parquet format **
+│   ├── csv - ** data in csv format **
+│   └── parquet - ** data in parquet format **
 │
 ├── data_generator
 │   ├── generate_data.py
@@ -46,7 +46,7 @@ The `data_generator` folder contains a Python script which produces the four dat
 python3 data_generator/generate_data.py
 ```
 
-The file `sample_addresses.csv` contains address and latitude/longitude data from Travis County, Texas. This data is used to ensure realistic delivery points are generated. This data is sourced from the [Texas Geographic Information Office](https://tnris.org/stratmap/address-points.html) and is in the public domain. If you would like to generate sample data for another area, you can substitude this file for your own address data.
+The file `sample_addresses.csv` contains address and latitude/longitude data from Travis County, Texas. This data is used to ensure realistic delivery points are generated. This data is sourced from the [Texas Geographic Information Office](https://tnris.org/stratmap/address-points.html) and is in the public domain. If you would like to generate sample data for another area, you can substitute this file for your own address data.
 
 You can modify the variables within the `__main__` function in the `generate_data.py` to control the amount of data that is produced. 
 
@@ -77,7 +77,7 @@ _Note: the generated data has already been loaded into staging tables in the sup
 
 You should see some output from dbt, ending with `Completed successfully. Done. PASS=11 WARN=0 ERROR=0 SKIP=0 TOTAL=11`.
 
-Congrats, you've just built and run a complete data warehouse on your computer!
+**Congrats, you've just successfully built and ran a complete data warehouse on your computer!** 
 
 5. Use the DuckDB CLI (Or a database client like DBeaver) to view the generated tables
 ```sh
