@@ -5,3 +5,4 @@ logs/
 dbt_modules/
 dbt-env/
 .DS_Store   
+dbt/superstore_delivered.duckdb
