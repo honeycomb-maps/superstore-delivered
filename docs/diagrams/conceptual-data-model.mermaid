@@ -1,0 +1,5 @@
+graph LR
+    CUSTOMERS -- "place" --> ORDERS
+    ORDERS -- "contain" --> ORDER_DETAILS
+    PRODUCTS -- "included in" --> ORDER_DETAILS
+    ORDERS -- "fulfilled by" --> DELIVERIES

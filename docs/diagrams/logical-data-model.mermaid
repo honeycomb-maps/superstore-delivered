@@ -1,0 +1,42 @@
+erDiagram
+    ORDERS ||--o{ ORDER_DETAILS : contains
+    ORDERS ||--|| DELIVERIES : "fulfilled by"
+    ORDERS {
+        int order_id PK
+        date order_date
+        date ship_date
+        string ship_mode
+        int customer_id FK
+        string delivery_address
+        float delivery_lat
+        float delivery_lon
+        int delivery_h3
+    }
+    CUSTOMERS ||--o{ ORDERS : places
+    CUSTOMERS {
+        int customer_id PK
+        string customer_name
+        string segment
+    }
+    PRODUCTS ||--o{ ORDER_DETAILS : "sold in"
+    PRODUCTS {
+        int product_id PK
+        string product_name
+        string category
+        string sub_category
+    }
+    ORDER_DETAILS {
+        int order_id FK
+        int product_id FK
+        float sales
+        int quantity
+        float discount
+        float profit
+    }
+    DELIVERIES {
+        int delivery_id PK
+        int order_id FK
+        date estimated_delivery_date
+        date actual_delivery_date
+        string delivery_status
+    }

@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: raw_data
+    schema: staging
+    tables:
+      - name: crm_customers
+      - name: ecommerce_products
+      - name: order_info
+      - name: delivery_data

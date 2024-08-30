@@ -1,0 +1,19 @@
+version: 2
+
+models:
+  - name: stg_products
+    columns:
+      - name: product_id
+        tests:
+          - unique
+          - not_null
+      - name: product_name
+        tests:
+          - not_null
+      - name: category
+        tests:
+          - not_null
+      - name: price
+        tests:
+          - not_null
+          - positive_value

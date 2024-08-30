@@ -1,0 +1,34 @@
+superstore_delivered:
+  outputs:
+    duckdb:
+      type: duckdb
+      path: './superstore_delivered.duckdb'
+      extensions:
+        - h3
+
+    snowflake:
+      type: snowflake
+      account: [account id]
+      user: [username]
+      role: [user role]
+
+      # Keypair config
+      private_key_path: [path/to/private.key]
+      # or private_key instead of private_key_path
+      private_key_passphrase: [passphrase for the private key, if key is encrypted]
+
+      database: [database name]
+      warehouse: [warehouse name]
+      schema: [dbt schema]
+      threads: [1 or more]
+      client_session_keep_alive: False
+      query_tag: [anything]
+
+      # optional
+      connect_retries: 0 # default 0
+      connect_timeout: 10 # default: 10
+      retry_on_database_errors: False # default: false
+      retry_all: False  # default: false
+      reuse_connections: False
+
+  target: duckdb
