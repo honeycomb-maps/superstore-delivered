@@ -4,7 +4,7 @@
 
 This repository is meant to be used as a starting point for those implementing data warehouses within logistics, last-mile delivery, and mobility companies. All the data and code is open-source under the MIT License. 
 
-You can find a step-by-step tutorial for building a data warehouse here: (honeycombmaps.com/blog/modern-delivery-data-warehouse-location-data-tutorial)[http://www.honeycombmaps.com/blog/modern-delivery-data-warehouse-location-data-tutorial]
+You can find the accompaning step-by-step tutorial for building a data warehouse on the Honeycomb Maps website [here](http://www.honeycombmaps.com/blog/modern-delivery-data-warehouse-location-data-tutorial).
 
 
 ## Background 
@@ -56,7 +56,7 @@ This repo is meant to emulate the data pipeline structure at a modern logistics 
 
 ![Diagram of the extract, load, transform process](docs/images/elt_process.svg)
 
-For a complete walkthrough of the ELT process, read the tutorial here: (honeycombmaps.com/blog/modern-delivery-data-warehouse-location-data-tutorial)[http://www.honeycombmaps.com/blog/modern-delivery-data-warehouse-location-data-tutorial]
+For a complete walkthrough of the ELT process, read the tutorial on the Honeycomb Maps website [here](http://www.honeycombmaps.com/blog/modern-delivery-data-warehouse-location-data-tutorial).
 
 ## Running the ELT process locally with dbt and DuckDB
 1. Install dependencies
