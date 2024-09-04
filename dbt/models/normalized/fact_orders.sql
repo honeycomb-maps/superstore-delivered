@@ -11,7 +11,7 @@ WITH order_info AS (
         delivery_address,
         delivery_lat,
         delivery_lon,
-        hex(h3_latlng_to_cell(delivery_lat, delivery_lon, 10)) as delivery_h3,
+        h3_latlng_to_cell(delivery_lat, delivery_lon, 12) as delivery_h3,
         SUM(sales) as total_sales,
         SUM(quantity) as total_quantity,
         SUM(profit) as total_profit

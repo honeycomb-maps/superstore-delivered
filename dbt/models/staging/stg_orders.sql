@@ -10,11 +10,11 @@ SELECT
     CAST(ship_date AS DATE) AS ship_date,
     ship_mode,
     delivery_address,
-    CAST(delivery_lat AS DECIMAL(10,8)) AS delivery_lat,
-    CAST(delivery_lon AS DECIMAL(11,8)) AS delivery_lon,
+    delivery_lat,
+    delivery_lon,
     CAST(product_id AS INTEGER) AS product_id,
     CAST(quantity AS INTEGER) AS quantity,
-    CAST(sales AS DECIMAL(10,2)) AS sales,
-    CAST(discount AS DECIMAL(4,2)) AS discount,
-    CAST(profit AS DECIMAL(10,2)) AS profit
+    sales,
+    discount,
+    profit
 FROM source
